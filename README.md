@@ -1,0 +1,2 @@
+# git-rnek
+git örnek
